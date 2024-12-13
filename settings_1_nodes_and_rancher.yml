@@ -146,7 +146,7 @@ harvester_node_config:
 #
 rancher_config:
   enabled: true
-  version: v2.9.1
+  version: v2.9.3
   repo: https://releases.rancher.com/server-charts/latest
 
   kubernetes:
